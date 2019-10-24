@@ -8,5 +8,9 @@ namespace november_project
 {
     class Människor
     {
+        public void Pengar()
+        {
+
+        }
     }
 }
