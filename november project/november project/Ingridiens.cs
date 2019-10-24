@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace november_project
 {
-    class Människor
+    class Ingridiens
     {
-        public int Pengar = 500
+        public int cost;
+
     }
 }

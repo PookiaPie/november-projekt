@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace november_project
 {
-    class Recept:Ingridienser
+    class Recept:Ingridiens
     {
         public void CheeseCake()
         {

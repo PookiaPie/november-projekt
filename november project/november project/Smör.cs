@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace november_project
 {
-    class Människor
+    class Smör : Ingridiens
     {
-        public int Pengar = 500
+        public Smör()
+        {
+            cost = 8;
+        }
+
     }
 }
